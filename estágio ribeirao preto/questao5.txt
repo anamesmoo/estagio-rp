@@ -1,0 +1,10 @@
+Ligaria o primeiro interruptor (A) e deixaria ligado por cerca de 5-10 minutos. Isso dará tempo para a lâmpada esquentar.
+
+Após 5-10 minutos, desligaria o primeiro interruptor (A) e ligaria o segundo interruptor (B). Deixo o terceiro interruptor (C) desligado.
+
+Agora, vou até a sala das lâmpadas.
+
+Se a lâmpada estiver acesa, então ela é controlada pelo interruptor B (o que deixei ligado).
+Se a lâmpada estiver apagada, toque na lâmpada:
+Se ela estiver quente, então ela é controlada pelo interruptor A (o que deixei ligado por um tempo e depois desligou).
+Se ela estiver fria, então ela é controlada pelo interruptor C (o que ficou desligado o tempo todo).
